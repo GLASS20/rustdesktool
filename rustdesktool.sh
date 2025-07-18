@@ -221,7 +221,7 @@ install() {
 
     # 下载链接列表#兼容国内环境
     links=(
-        "https://gh.ddlc.top/https://github.com/rustdesk/rustdesk-server/releases/download/$rustdeskserverversion/rustdesk-server-linux-amd64.zip"
+        "https://ghfast.top/https://github.com/rustdesk/rustdesk-server/releases/download/$rustdeskserverversion/rustdesk-server-linux-amd64.zip"
         "https://git.886.be/https://github.com/rustdesk/rustdesk-server/releases/download/$rustdeskserverversion/rustdesk-server-linux-amd64.zip"
         "https://github.com/rustdesk/rustdesk-server/releases/download/$rustdeskserverversion/rustdesk-server-linux-amd64.zip"
     )
